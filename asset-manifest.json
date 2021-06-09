@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-book-library/static/css/main.c004e1d0.chunk.css",
+    "main.js": "/react-book-library/static/js/main.ba1da897.chunk.js",
+    "main.js.map": "/react-book-library/static/js/main.ba1da897.chunk.js.map",
+    "runtime-main.js": "/react-book-library/static/js/runtime-main.1382b8f7.js",
+    "runtime-main.js.map": "/react-book-library/static/js/runtime-main.1382b8f7.js.map",
+    "static/js/2.bb66fa2b.chunk.js": "/react-book-library/static/js/2.bb66fa2b.chunk.js",
+    "static/js/2.bb66fa2b.chunk.js.map": "/react-book-library/static/js/2.bb66fa2b.chunk.js.map",
+    "static/js/3.8f78a4d9.chunk.js": "/react-book-library/static/js/3.8f78a4d9.chunk.js",
+    "static/js/3.8f78a4d9.chunk.js.map": "/react-book-library/static/js/3.8f78a4d9.chunk.js.map",
+    "index.html": "/react-book-library/index.html",
+    "static/css/main.c004e1d0.chunk.css.map": "/react-book-library/static/css/main.c004e1d0.chunk.css.map",
+    "static/js/2.bb66fa2b.chunk.js.LICENSE.txt": "/react-book-library/static/js/2.bb66fa2b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1382b8f7.js",
+    "static/js/2.bb66fa2b.chunk.js",
+    "static/css/main.c004e1d0.chunk.css",
+    "static/js/main.ba1da897.chunk.js"
+  ]
+}
